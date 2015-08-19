@@ -1,0 +1,1 @@
+`nodejs server.js &;`> http server has started on port 8080

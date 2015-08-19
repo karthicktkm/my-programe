@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "description": "Fast, unopinionated, minimalist web framework",
+  "version": "4.11.2",
+  "author": {
+    "name": "karthick",
+    "email": "karthik.s@bambeeq.com"
+  },
+  "contributors": [
+    {
+      "name": "karthi",
+      "email": "karthik.s@bambeeq.com"
+    }
+    ]

@@ -1,0 +1,17 @@
+[2015-07-31T10:03:07+05:30] INFO: Forking chef instance to converge...
+[2015-07-31T10:03:07+05:30] INFO: *** Chef 12.2.1 ***
+[2015-07-31T10:03:07+05:30] INFO: Chef-client pid: 6950
+[2015-07-31T10:03:09+05:30] INFO: Setting the run_list to ["recipe[hello::default]"] from CLI options
+[2015-07-31T10:03:09+05:30] INFO: Run List is [recipe[hello::default]]
+[2015-07-31T10:03:09+05:30] INFO: Run List expands to [hello::default]
+[2015-07-31T10:03:09+05:30] INFO: Starting Chef Run for bambeeq
+[2015-07-31T10:03:09+05:30] INFO: Running start handlers
+[2015-07-31T10:03:09+05:30] INFO: Start handlers complete.
+[2015-07-31T10:03:09+05:30] INFO: Processing directory[/home/e100102/ssp] action create (hello::default line 2)
+[2015-07-31T10:03:09+05:30] INFO: Processing file[/home/e100102/ssp/ssp.txt] action create (hello::default line 10)
+[2015-07-31T10:03:09+05:30] INFO: Processing bash[extracting files] action run (hello::default line 19)
+[2015-07-31T10:03:09+05:30] INFO: bash[extracting files] ran successfully
+[2015-07-31T10:03:09+05:30] INFO: Chef Run complete in 0.141583051 seconds
+[2015-07-31T10:03:09+05:30] INFO: Skipping removal of unused files from the cache
+[2015-07-31T10:03:09+05:30] INFO: Running report handlers
+[2015-07-31T10:03:09+05:30] INFO: Report handlers complete

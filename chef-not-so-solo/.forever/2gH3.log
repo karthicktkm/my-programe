@@ -1,0 +1,2 @@
+> http server has started on port 8080
+error: Forever detected script was killed by signal: SIGKILL

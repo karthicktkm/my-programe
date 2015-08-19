@@ -1,0 +1,17 @@
+{
+  "root": "/home/e100102/chef-not-so-solo/.forever",
+  "pidPath": "/home/e100102/chef-not-so-solo/.forever/pids",
+  "sockPath": "/home/e100102/chef-not-so-solo/.forever/sock",
+  "loglength": 100,
+  "logstream": false,
+  "columns": [
+    "uid",
+    "command",
+    "script",
+    "forever",
+    "pid",
+    "id",
+    "logfile",
+    "uptime"
+  ]
+}
